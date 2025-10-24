@@ -1,0 +1,42 @@
+{
+  "name": "db_backup_utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js",
+    "dev": "tsx src/main.ts",
+    "lint": "eslint . --ext .ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "commander": "14.0.1",
+    "dotenv": "17.2.3",
+    "fs-extra": "^11.0.0",
+    "mysql2": "^3.0.0",
+    "pg": "^8.0.0",
+    "sqlite3": "^5.1.0",
+    "tar": "7.5.1",
+    "which": "5.0.0",
+    "winston": "3.18.3",
+    "yargs": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "11.0.4",
+    "@types/jest": "30.0.0",
+    "@types/node": "24.9.1",
+    "@types/pg": "^8.15.5",
+    "@types/tar": "^6.1.13",
+    "@types/which": "^3.0.4",
+    "eslint": "9.38.0",
+    "jest": "30.2.0",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

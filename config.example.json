@@ -1,0 +1,29 @@
+{
+  "defaultBackupDir": "./backups",
+  "databases": [
+    {
+      "name": "my-neondb",
+      "type": "postgresql",
+      "host": "your-neon-host.neon.tech",
+      "port": 5432,
+      "user": "your-username",
+      "password": "your-password",
+      "database": "your-database-name",
+      "ssl": true
+    },
+    {
+      "name": "local-mysql",
+      "type": "mysql",
+      "host": "localhost",
+      "port": 3306,
+      "user": "root",
+      "password": "password",
+      "database": "myapp"
+    },
+    {
+      "name": "local-sqlite",
+      "type": "sqlite",
+      "filePath": "./data/app.db"
+    }
+  ]
+}
