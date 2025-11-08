@@ -67,7 +67,7 @@ This project was developed as a collaborative effort by a team of five dedicated
 
 ### **Anjali**
 
-**Primary Role:** CLI Developer & UX Designer
+**Primary Role:** CLI Developer 
 
 **Major Contributions:**
 - 🎮 **Command-Line Interface Development**
