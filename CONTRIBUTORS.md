@@ -264,11 +264,11 @@ While each team member had their primary responsibilities, the following tasks w
 
 ## 📞 Contact Information
 
-- **Pankaj Yadav** - Project Lead - [GitHub: code-pankaj](https://github.com/code-pankaj)
-- **Anjali Sharma** - CLI Developer
-- **Kartik Patel** - Database Integration
-- **Malik Ahmed** - Logging Systems
-- **Anshu Verma** - Type Safety
+- **Pankaj** - Project Lead
+- **Anjali** - CLI Developer
+- **Kartik** - Database Integration
+- **Malik** - Logging Systems
+- **Anshu** - Type Safety
 
 ---
 
