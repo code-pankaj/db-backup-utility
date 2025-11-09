@@ -16,7 +16,7 @@
 ## Basic Concept Questions
 
 ### Q1: What is the purpose of your Database Backup Utility project?
-**Expected Answer:** The project is a CLI-based tool that automates database backups for PostgreSQL, MySQL, and SQLite. It provides compression, logging, secure credential management, and supports both local and cloud-hosted databases.
+**Expected Answer:** The project is a CLI-based tool that automates database backups for PostgreSQL, MySQL, and SQLite. It provides compression, logging, secure credential management, and supports local.
 
 ### Q2: Why is database backup important?
 **Expected Answer:** Database backups protect against data loss from system failures, human errors, cyberattacks, or hardware failures. They are critical for disaster recovery, business continuity, and regulatory compliance.
