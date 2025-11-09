@@ -8,7 +8,7 @@ export function initLogger() {
     level: 'info',
     format: winston.format.combine(
       winston.format.timestamp(),
-      winston.format.json()
+      winston.format.json(),
     ),
     transports: [
       new winston.transports.File({ filename: 'logs/backup.log' }),
